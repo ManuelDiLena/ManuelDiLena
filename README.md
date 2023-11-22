@@ -1,7 +1,7 @@
 # Hi, I'm Manu 👋
 
 Welcome to my page!<br>
-I'm a front-end developer from **Argentina** based in **Valencia, Spain**.
+I'm a full-stack developer from **Argentina** based in **Valencia, Spain**.
 
 ## :man_technologist: About Me
 
