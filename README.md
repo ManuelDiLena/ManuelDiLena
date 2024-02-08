@@ -34,6 +34,10 @@ I'm a full-stack developer from **Argentina** based in **Valencia, Spain**.
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
 </div>
 
+## :fire: My stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manueldilena&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Where to find me
 
 <div id="badges">
